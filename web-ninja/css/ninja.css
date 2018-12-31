@@ -1,0 +1,62 @@
+#logo{
+    max-width:200px;
+    max-height:200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+}
+img,iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    width:100%;
+    height:auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: blue;
+    font-size:28px;
+}
+h2 {
+    width:100%;
+    height:auto;
+    font-family: "Times New Roman", Times, serif;
+    color: red;
+    font-size:24px;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+a[href^="http"] {
+    background-image: url(../img/globo.png);
+    background-repeat: no-repeat;
+    padding-left:25px;
+}
+opaco{
+    opacity: 0.5;
+}
+strong{
+    background-color: aqua;
+    font-size: 22px;
+}
+body {
+    margin: 5px;
+    background-color: #00abff38;
+}

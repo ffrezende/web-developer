@@ -1,0 +1,88 @@
+#cabecalho {
+	background-color: #6175f0;
+}
+
+#cabecalho h1 {
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	font-size: 36px;
+	padding-left: 34px;
+	padding-bottom: : 20px;
+}
+
+#cabecalho h2 {
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	font-size: 24px;
+	padding-left: 34px;
+}
+
+#verdade img {
+	float: left;
+    width: 310px;
+    padding-right: 13px;
+}
+
+#verdade h2 {
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 24px;
+}
+
+#verdade p {
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+	font-size: 14px;
+}
+
+#hoje {
+	width: 405px;
+	background-color: #f8cef7;
+	border-style: solid;
+	border-color: #ff56fb;
+	float: right;
+	padding-right: 25px;
+}
+#hoje h2 {
+	padding-top: 20px; 
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 24px;
+}
+#hoje h3 {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 18px;
+}
+
+#hoje img {
+	height: 112px;
+    width: 112px;
+    display: block;
+    margin: auto;
+}
+#hoje p {
+	margin-left: 35px;
+	margin-right: 35px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+#musica {
+	margin-left: 12px;
+}
+
+#musica h2 {
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 24px;
+}
+.destacado {
+	color: #004a79;
+	background-color: #c4caf3;
+}
+
+#musica p:nth-child(2n+1) {
+	margin-left: 34px;
+}
